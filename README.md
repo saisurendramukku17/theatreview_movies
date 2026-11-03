@@ -56,27 +56,6 @@ block you? TheatreView lets you find out first.
 
 The easiest way is the live site: **[theatre-view.vercel.app](https://theatreviewmovies.vercel.app/)**.
 It works in Chrome, Edge, Brave, Firefox and Safari on a laptop or desktop.
-
-To run it on your own computer, you need [Node.js](https://nodejs.org) 20.19 or newer.
-
-```bash
-git clone https://github.com/rmagdaleena2508-01/TheatreView-.git
-cd TheatreView-
-npm install
-npm run dev
-```
-
-Then open the link it prints (it looks like `http://localhost:5173`).
-
-Other commands:
-
-| Command | What it does |
-|---|---|
-| `npm run dev` | Starts the app on your computer |
-| `npm run build` | Checks the code and makes a version ready to put online |
-| `npm run preview` | Opens the online-ready version so you can check it |
-| `npm run lint` | Looks for small mistakes in the code |
-
 ### Turn on booking (optional)
 
 The app works without this. You only need it for holding and booking seats.
