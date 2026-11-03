@@ -854,9 +854,9 @@ If you find a bug, please open an issue and tell me what you clicked and what yo
   [www.blender.org](https://www.blender.org), shared under
   [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/). The streams are
   provided by [Mux](https://www.mux.com) and [Unified Streaming](https://www.unified-streaming.com) test servers.
-- **Spider-Man: No Way Home** and **Spider-Man: Brand New Day** trailers and clips belong to Sony
-  Pictures and Marvel. They are not copied or stored here; they play from YouTube in YouTube's own
-  player, from the channels named in `src/movies.ts`.
+-  trailers and clips belong to Sony  pictures
+   they play from YouTube in YouTube's own
+    player, from the channels named in `src/movies.ts`.
 - **Inter** font by Rasmus Andersson, under the
   [SIL Open Font License](https://github.com/rsms/inter/blob/master/LICENSE.txt).
 - Cinema screen sizes and design rules come from the sources listed in
@@ -864,7 +864,7 @@ If you find a bug, please open an issue and tell me what you clicked and what yo
 
 ## Thank you
 
-- The LinkedIn post that gave me this idea.(also my mum's scolding cause once i booked a seat with bad view )
+- The LinkedIn post that gave me this idea.
 - [Codrops: Cinema Seat Preview Experiment](https://tympanus.net/codrops/?p=25885), an early version of this idea.
 - [StadiView](https://github.com/fengjun8/stadiview), a stadium version that showed me how to handle lots of seats.
 - [pmndrs](https://github.com/pmndrs), the people who make React Three Fiber, drei, zustand and maath.
@@ -907,4 +907,4 @@ role of AI in the creation process.
 
 [MIT](LICENSE) for the code. You can use it, change it and share it. Just keep the license file.
 The movies and the font keep their own licenses (see Credits and licenses).
-@Magdaleena R
+@saisurendramukku17
