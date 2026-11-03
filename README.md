@@ -4,7 +4,7 @@
 
 **Sit in a movie seat before you buy the ticket.**
 
-**[▶ Try it live](https://theatre-view.vercel.app)** · **[Watch the demo](docs/demo.mp4)** · [How it works](#how-it-works) · [My Thinking](#my-thinking) · [AI use](#ai-use-and-responsibility)
+**[▶ Try it live](https://theatreviewmovies.vercel.app/)** · **[Watch the demo](docs/demo.mp4)** · [How it works](#how-it-works) · [My Thinking](#my-thinking) · [AI use](#ai-use-and-responsibility)
 
 Pick a seat in a 3D movie theater. The camera flies into that seat. You see the screen just like
 you would from there. Then you know if it is a good seat.
@@ -19,7 +19,7 @@ A one-minute screen recording: picking a theater and a movie, sitting in a few s
 between them, and flying back out. (The recording has no sound. The movie clips in it are Spider-Man
 trailers played from YouTube; they belong to Sony Pictures and Marvel.)
 
-Or open it yourself: **[theatre-view.vercel.app](https://theatre-view.vercel.app)**
+Or open it yourself: **[theatre-view.vercel.app](https://theatreviewmovies.vercel.app/)**
 
 ## Why I made this
 
@@ -54,7 +54,7 @@ block you? TheatreView lets you find out first.
 
 ## Try it
 
-The easiest way is the live site: **[theatre-view.vercel.app](https://theatre-view.vercel.app)**.
+The easiest way is the live site: **[theatre-view.vercel.app](https://theatreviewmovies.vercel.app/)**.
 It works in Chrome, Edge, Brave, Firefox and Safari on a laptop or desktop.
 
 To run it on your own computer, you need [Node.js](https://nodejs.org) 20.19 or newer.
@@ -268,7 +268,7 @@ sign-in is turned on in Supabase and the keys are added to Vercel.
 
 <br>
 
-- ✅ Live on Vercel: [theatre-view.vercel.app](https://theatre-view.vercel.app).
+- ✅ Live on Vercel: [theatre-view.vercel.app](https://theatreviewmovies.vercel.app/).
 - ✅ Faster loading: Lighthouse phone score went from 39 to between 52 and 78.
 - ✅ Built files are cached for a year; a daily job keeps the database awake.
 - ✅ Tested with 100 people at once.
